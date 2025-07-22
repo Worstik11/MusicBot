@@ -5,9 +5,9 @@ export default {
     nodes: [
       {
         name: "MusicBot",
-        host: "lavalink.jirayu.net",
-        port: 13592,
-        password: "youshallnotpass",
+        host: "lavalink.devxcode.in",
+        port: 80,
+        password: "DevamOP",
         secure: false,
       },
     ],
