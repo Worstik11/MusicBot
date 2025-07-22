@@ -5,7 +5,7 @@ export default {
     nodes: [
       {
         name: "MusicBot",
-        host: "127.0.0.1",
+        host: "185.189.185.15",
         port: 2333,
         password: "youshallnotpass",
         secure: false,
