@@ -5,9 +5,9 @@ export default {
     nodes: [
       {
         name: "MusicBot",
-        host: "lava-v4.ajieblogs.eu.org",
-        port: 80,
-        password: "https://dsc.gg/ajidevserver",
+        host: "69.30.219.180",
+        port: 1047,
+        password: "yothisnodeishostedbymushroom0162",
         secure: false,
       },
     ],
