@@ -8,7 +8,7 @@ export default {
         host: "lavahatry4.techbyte.host",
         port: 3000,
         password: "NAIGLAVA-dash.techbyte.host",
-        secure: true,
+        secure: false,
       },
     ],
     defaultSearchPlatform: "ytmsearch",
