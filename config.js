@@ -8,7 +8,7 @@ export default {
         host: "lava-v4.ajieblogs.eu.org",
         port: 443,
         password: "https://dsc.gg/ajidevserver",
-        secure: false,
+        secure: true,
       },
     ],
     defaultSearchPlatform: "ytmsearch",
