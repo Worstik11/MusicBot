@@ -5,9 +5,9 @@ export default {
     nodes: [
       {
         name: "MusicBot",
-        host: "69.30.219.180",
-        port: 1047,
-        password: "yothisnodeishostedbymushroom0162",
+        host: "lavalink.jirayu.net",
+        port: 13592,
+        password: "youshallnotpass",
         secure: false,
       },
     ],
