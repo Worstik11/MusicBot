@@ -5,9 +5,9 @@ export default {
     nodes: [
       {
         name: "MusicBot",
-        host: "lavahatry4.techbyte.host",
-        port: 3000,
-        password: "NAIGLAVA-dash.techbyte.host",
+        host: "lavalink.jirayu.net",
+        port: 13592,
+        password: "youshallnotpass",
         secure: false,
       },
     ],
@@ -44,6 +44,7 @@ export default {
   
   activityRotationInterval: 30000, 
 };
+
 
 
 
