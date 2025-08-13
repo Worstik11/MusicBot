@@ -5,9 +5,9 @@ export default {
     nodes: [
       {
         name: "MusicBot",
-        host: "lavalink.jirayu.net",
-        port: 13592,
-        password: "youshallnotpass",
+        host: "lavalinkv4.serenetia.com",
+        port: 80,
+        password: "https://dsc.gg/ajidevserver",
         secure: false,
       },
     ],
@@ -44,6 +44,7 @@ export default {
   
   activityRotationInterval: 30000, 
 };
+
 
 
 
