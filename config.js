@@ -5,10 +5,10 @@ export default {
     nodes: [
       {
         name: "MusicBot",
-        host: "lavalinkv4.serenetia.com",
-        port: 80,
-        password: "https://dsc.gg/ajidevserver",
-        secure: false,
+       "host": "lava-v4.ajieblogs.eu.org",
+       "port": 80,
+       "password": "https://dsc.gg/ajidevserver",
+       "secure": false
       },
     ],
     defaultSearchPlatform: "ytmsearch",
@@ -44,6 +44,7 @@ export default {
   
   activityRotationInterval: 30000, 
 };
+
 
 
 
