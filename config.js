@@ -4,11 +4,11 @@ export default {
   lavalink: {
     nodes: [
       {
-        name: "MusicBot",
+    name: "MusicBot",
     "host": "lava-v4.ajieblogs.eu.org",
-    "port": 443,
+    "port": 80,
     "password": "https://dsc.gg/ajidevserver",
-    "secure": true,
+    "secure": false,
       },
     ],
     defaultSearchPlatform: "ytmsearch",
@@ -44,5 +44,6 @@ export default {
   
   activityRotationInterval: 30000, 
 };
+
 
 
